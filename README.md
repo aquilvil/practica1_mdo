@@ -4,13 +4,25 @@ Todo ello se realizará creando un proyecto web solo con HTML.
 Cada alumno deberá crear su propio repositorio realizando las tareas en el mismo.
 
 ##Tabla de contenidos de la actividad:
--[Instalación](#instalación)
--[Estructura](#uso)
--[Commit](#commit)
--[Push](#push)
--[Trabajo por ramas](#trabajo_ramas)
--[Documentación](#documentacion)
+- [Instalación](#instalación)
+- [Estructura](#uso)
+- [Commit](#commit)
+- [Push](#push)
+- [Trabajo por ramas](#trabajo-por-ramas)
+- [Documentación](#documentación)
 
-Las mejoras que se han realizado en este caso son:
+##Instalación
+
+##Estructura
+
+##Commit
+
+##Push
+
+##Trabajo por ramas
+
+##Documentación
+
+##Las mejoras que se han realizado en este caso son:
 - Insertar una tabla con información.
 - Agregar un formulario de contacto.
