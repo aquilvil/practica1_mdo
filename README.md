@@ -1,9 +1,9 @@
-#Proyecto tarea UD1 del Módulo profesional optativo de DAM
+# Proyecto tarea UD1 del Módulo profesional optativo de DAM
 Esta práctica trata de que los alumnos asimilen conceptos de Git, GitHub, ramas y documentacion.
 Todo ello se realizará creando un proyecto web solo con HTML.
 Cada alumno deberá crear su propio repositorio realizando las tareas en el mismo.
 
-##Tabla de contenidos de la actividad:
+## Tabla de contenidos de la actividad:
 - [Instalación](#instalación)
 - [Estructura](#uso)
 - [Commit](#commit)
@@ -11,18 +11,25 @@ Cada alumno deberá crear su propio repositorio realizando las tareas en el mism
 - [Trabajo por ramas](#trabajo-por-ramas)
 - [Documentación](#documentación)
 
-##Instalación
+## Instalación
+Configuración de GitHub y de nuestro repositorio.
 
-##Estructura
+## Estructura
+Estructura del proyecto: index.html, .gitignore, README.md
 
-##Commit
+## Commit
+Explicación de los cambios en archivos.
 
-##Push
+## Push
+Subir los archivos al repositorio.
 
-##Trabajo por ramas
+## Trabajo por ramas
+Opción 2:
+Opción 3:
 
-##Documentación
+## Documentación
+README.md 
 
-##Las mejoras que se han realizado en este caso son:
+## Las mejoras que se han realizado en este caso son:
 - Insertar una tabla con información.
 - Agregar un formulario de contacto.
